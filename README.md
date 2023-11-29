@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cinnamoon-dev&show_icons=true&theme=apprentice" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Cinnamoon-dev&show_icons=true&theme=apprentice" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cinnamoon-dev&size_weight=0.5&count_weight=0.5&layout=compact&theme=apprentice&hide=html" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cinnamoon-dev&size_weight=0.5&count_weight=0.5&layout=compact&theme=apprentice&hide=html,vim%20script" />
 </a>
 
 <!--
